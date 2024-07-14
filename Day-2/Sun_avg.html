@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sum And Average</title>
+    <script>
+        var numbersum=0;
+        function sumaav()
+        {
+            for(let sum of arguments)
+            {
+               numbersum+=sum; 
+            }
+            document.write(`The Number Sum Is :=${numbersum}<br>`)
+            document.write(`The Number avg Is :=${numbersum/arguments.length}<br>`)
+        }
+    </script>
+</head>
+<body>
+    
+    <script>
+        sumaav(10,20,30);
+        sumaav(10,20,30,40,50);
+    </script>
+</body>
+</html>
