@@ -1,1 +1,1 @@
-# 75-Days-Code-JavaScript
+# 50-Days-Code-JavaScript
