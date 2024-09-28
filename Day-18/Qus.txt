@@ -1,0 +1,6 @@
+Day -1
+//Qus 1.  check whether number given is positive or negative ?
+//Qus 2.  check whether number Number is single Digit Double Digit ?
+//Qus 3.  check whether number Number is  Double Digit ?
+//Qus 4.  check valid month number  And Print The Number
+//Qus 5.  Day of check Month And Print also print leap year according
