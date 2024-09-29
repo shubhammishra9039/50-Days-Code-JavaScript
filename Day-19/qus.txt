@@ -1,0 +1,6 @@
+// Qus 1. all all the  factor given number
+// Qus 2. perfect number a number which is some of all the divider of number Ex 28 {1,2,4,7,14} sum is 28
+// Qus 3. Internal And External Digit sum  121 {1+1} {2} sum {2,2} 1234 {1+4} {2+3} pending
+// Qus 4. Check The Number Prime Number Or not
+// Qus 5. Factorial Number zero Factorial is 1
+// Qus 6. Some Of Factorial Of the Digit Is called strong Number
