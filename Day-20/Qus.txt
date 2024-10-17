@@ -1,0 +1,45 @@
+qus 1. * * *
+       * * *
+       * * *
+
+Qus 2. 1 2 3 4
+       1 2 3 4
+       1 2 3 4
+       1 2 3 4
+
+Qus 3  A B C D
+       A B C D
+       A B C D
+       A B C D
+
+Qus 4  1 0 1 0 
+       1 0 1 0
+       1 0 1 0
+       1 0 1 0
+
+ Qus 5  01 02 03 04
+        05 06 07 08
+        09 10 11 12
+        13 14 15 16
+
+Qus 6  * 
+       * *
+       * * *
+       * * * *
+
+Qus 7   1
+        1 2
+        1 2 3
+        1 2 3 4
+
+Qus 8
+         a
+         a b
+         a b c
+         a b c d
+
+Qus 9 s1="abc" s2="dhi"
+       res="adbhci"
+       s1="ab" s2="mnop"
+       res="ambnop"
+        
