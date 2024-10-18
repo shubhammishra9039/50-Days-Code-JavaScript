@@ -1,0 +1,14 @@
+1. Find the length of last word in the Sentence
+2. Find The Word Which is Having Maximum Length in the Given Length
+3.
+4.
+5.
+6. Check Whether The Given String 2 String is Anagram or not 
+    //An anagram of a string is another string that contains the same characters,
+     only the order of characters can be different. For example, “act” and “tac” are anagrams of each other.
+     Examples: Input: str1 = “listen” str2 = “silent” Output: “Anagram”
+
+Qus 7 
+
+
+Whay Array Index Alway Start in Zero Index postion
