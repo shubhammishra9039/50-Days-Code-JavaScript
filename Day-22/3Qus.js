@@ -1,0 +1,1 @@
+function findNumber(m,average)

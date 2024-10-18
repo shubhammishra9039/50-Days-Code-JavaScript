@@ -1,0 +1,8 @@
+Qus.1 Sum of the Negative Number -456
+Qus.2 Check Prefix all the given array of string ["flower","fowler","flow"] flow 
+Qus.3 You Have Oversbation of  n+m six Side Dice roles with each face Number from 1 to 6.
+       n is oversbation when missing and you only oversbation of m role 
+       futuchnely you have also calculated  the average value of m + n role 
+       your given the intergar array roles of length m roles of i is the value of the i th Oversbation
+       your also given two integer mean(avagage) and n 
+Qus.4 Binary searcher 
